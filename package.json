@@ -1,0 +1,12 @@
+{
+  "name": "manga-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rami Ben Maachia <rami.ben-maachia@outlook.fr> (https://ramiibm.github.io/)",
+  "license": "MIT"
+}
