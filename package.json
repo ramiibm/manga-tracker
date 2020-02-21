@@ -11,7 +11,8 @@
   "author": "Rami Ben Maachia <rami.ben-maachia@outlook.fr> (https://ramiibm.github.io/)",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.9.1"
+    "mongoose": "^5.9.1",
+    "node-fetch": "^2.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
